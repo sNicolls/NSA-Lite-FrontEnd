@@ -17,7 +17,9 @@ export default class Body extends React.Component {
     render() {
       return (
         <div className="body">
-          
+
+<img type="jpeg" src={require('../Resources/Zoidberg3.jpg')} alt="Zoidberg"></img> 
+           
         </div>
       );
     }

@@ -40,7 +40,7 @@ export default class Container extends React.Component {
         <div>
           <TopBarMenu />
           <Body />
-          <img type="text/javascript" src="https://localhost:5000/feed"></img> 
+          
         </div>
       );
     }

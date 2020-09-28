@@ -1,0 +1,24 @@
+.topBarMenu_Container{
+    background-color: #495D80;
+    height: 40px;
+    width: 100%;
+}
+
+.topBut{
+    cursor: pointer;
+    width: 40px;
+    margin: 5px;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    font-size: 25px;
+    border: none;
+    border-radius: 3px;
+}
+.topBut:hover{
+
+    color: #98ACD6
+}
+.topBut:focus{
+    outline: none;
+}
